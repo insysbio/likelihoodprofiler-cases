@@ -1,4 +1,4 @@
-# likelihoodprofiler-cases
+# LikelihoodProfiler Cases
 This repo is dedicated to tests and experimental cases for [LikelihoodProfiler.jl](https://github.com/insysbio/LikelihoodProfiler.jl).
 
 
