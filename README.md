@@ -17,4 +17,5 @@ Currently the repository includes the following use-case models:
 using IJulia
 
 notebook(dir="./notebook")
+# http://localhost:8888/notebooks
 ```
