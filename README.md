@@ -1,5 +1,5 @@
-# LikelihoodProfiler Cases
-This repo is dedicated to tests and experimental cases for [LikelihoodProfiler.jl](https://github.com/insysbio/LikelihoodProfiler.jl).
+# CICOBase (LikelihoodProfiler) Cases
+This repo is dedicated to tests and experimental cases for [CICOBase.jl](https://github.com/insysbio/LikelihoodProfiler.jl).
 
 
 Currently the repository includes the following use-case models:
